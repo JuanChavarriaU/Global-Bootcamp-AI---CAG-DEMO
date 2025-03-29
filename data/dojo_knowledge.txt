@@ -1,0 +1,110 @@
+La fundacion comunidad DOJO tiene como misión "cambiar vidas por medio de la ciberseguridad"
+
+Nuestros Objetivos
+
+Aprendizaje Colaborativo
+Formar una comunidad que aprenda junta y con talentos identificados para crear una bolsa de profesionales.
+
+
+Educación Asequible
+Desarrollar iniciativas que promuevan el desarrollo de competencias técnicas en materia de seguridad de la información, infraestructura de red e infraestructura web.
+
+
+Desarrollo de comunidades
+Facilitar recursos y asesorías para la ejecución de proyectos que contribuyen al desarrollo de nuestra comunidad.
+
+Nuestros Programas de Formación.
+Programas diseñados con el objetivo de impactar y mejorar las vidas de profesionales y jóvenes.
+
+
+Programa de Impacto para jóvenes
+Líderes programadores
+English and code as a second language.
+
+
+Programa de Impacto para el empleo
+Fundamentos de Ciberseguridad.
+Analista SOC.
+Fundamentos de Pentesting.
+Fundamentos de Cloud.
+
+Nuestros canales de contacto
+Correo Electrónico: info@comunidaddojo.com
+Teléfono: +507 306-3700
+Llámenos o escríbanos a: (507) 6615-1093
+
+Encuéntranos en Panamá
+Horario de Lunes a Viernes: 8:00am - 5:00pm
+Dirección: Coworking Space, Innova 109,clayton Ciudad del saber, Calle Jorge Gil
+
+Conferencias 
+
+BSides Panama: 
+BSides es un evento anual que reúne a hackers éticos que comparten sus experiencias e 
+investigaciones en un formato de conferencias técnicas que busca convertirse en un 
+referente académico y de conocimiento sobre seguridad digital y 
+ciberseguridad para la región latinoamericana.
+
+DOJOConf Panama:
+La DOJOConf Panamá | Conferencia de Ciberseguridad y Tecnología, es una conferencia bajo el sello #comunidaddojo, organizada por 
+la Fundación Comunidad Dojo con el objetivo de incentivar el aprendizaje y buenas prácticas.
+
+AMaliaConf by Comunidad DOJO:
+La Conferencia Amalia Conf, nace como una iniciativa para fomentar el aprendizaje 
+y la concientización sobre los aportes de la inteligencia artificial (IA) y el Aprendizaje de Máquina (ML) en el desarrollo de nuevas soluciones a problemas existentes,
+y su valor para las empresas en la actualidad, y sus retos de futuro.
+
+Subcomunidades: 
+Hemos creado cuatros comunidades donde jóvenes y profesionales comparten su deseo de aprender colaborativamente 
+sobre un tema de común interés. Cada comunidad es un excelente espacio para conocer colegas y compartir experiencias. Los grupos se reúnen frecuentemente debido a diversas actividades de colaboración, 
+manteniendo una interacción constante por medio de nuestras plataformas digitales y redes sociales.
+
+DOJO Blue Team - SEGURIDAD DEFENSIVA
+
+    - Aprendemos juntos sobre esquemas de gestión para proteger a las organizaciones, entre otras cosas estudiamos cómo visibilizar los activos a proteger, identificar fallas de seguridad, verificar la efectividad de cada medida de seguridad y procesos para validar de que todas las medidas de seguridad continuarán siendo efectivas después de la implementación.
+
+DOJO Red Team - SEGURIDAD OFENSIVA
+    - Nos interesamos en entender cómo las organizaciones pueden mejorar su postura de seguridad utilizando técnicas y tácticas utilizadas por atacantes reales, siempre respetando aspectos legales y éticos. Para facilitar el proceso de aprendizaje contamos con el apoyo de la empresa Hackthebox de Grecia, que nos permite utilizar sus plataformas para acceder a equipos en un ambiente de pruebas.
+
+DOJO Cloud - Computacion en la nube
+    - El interés de este grupo es entender los conceptos fundamentales de la computación en la nube, así como los procesos de evaluación de traslado de cargas de trabajo, diseño de un esquema de seguridad para lo que está dentro de la competencia del usuario y mecanismos para validar el cumplimiento por parte del proveedor de nube.
+
+DOJO ML – APRENDIZAJE Automatico
+    - Las investigaciones y aprendizaje se hacen sobre los aspectos tecnológicos relacionados con el aprendizaje de máquina, así como sus principales aplicaciones de valor para las empresas en la actualidad, y sus retos de futuro. Automatización, análisis predictivo, patrones del comportamiento, procesamiento del lenguaje natural o asistentes virtuales son aplicaciones que estudiaremos.
+
+Los embajadores de la fundacion comunidada DOJO son: 
+
+Eduardo Snape
+Hubert Demercado
+Jorge Rodríguez
+Omar Gudiño
+Sheila Leacock
+Elzer Pineda
+Vielsa Gómez
+Ericka Valdés
+Carlos Solís
+Juan Carlos Paris
+Stephanie Black
+Yiseika Saavedra
+Sheila Pérez
+José Brown
+Jahir Gantes
+Franklin S. Pablú
+Juan José Chavarría
+Jim Jeremy Santos    
+
+Impulso Cyber Podcast de la fundacion comunidad DOJO
+
+Link a las redes sociales 
+
+Facebook: https://www.facebook.com/ComunidadDOJO/
+
+X: https://X.com/ComunidadDojo
+
+LinkedIn: https://www.linkedin.com/company/comunidaddojo/
+
+Instagram: https://www.instagram.com/comunidaddojo/
+
+Telegram: https://t.me/comunidaddojo
+
+Discord: https://discord.com/invite/RsdhkfSc2q

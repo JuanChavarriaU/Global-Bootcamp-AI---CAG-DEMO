@@ -1,0 +1,80 @@
+==============================
+PREGUNTAS FRECUENTES - SOPORTE TÉCNICO INTERNO
+Empresa XYZ
+==============================
+
+--- ACCESO Y CONTRASEÑAS ---
+
+Q: ¿Cómo restablezco mi contraseña de dominio?
+A: Si estás en la oficina, presiona Ctrl+Alt+Delete y selecciona "Cambiar contraseña". Si estás fuera de la oficina, accede al portal https://password.xyz.com con tu correo institucional.
+
+Q: ¿Con qué frecuencia debo cambiar mi contraseña?
+A: Cada 90 días. Recibirás un aviso automático por correo 7 días antes de que expire.
+
+Q: ¿Qué hago si olvidé mi contraseña?
+A: Contacta a soporte al correo soporte@xyz.com o llama al interno 1010. También puedes usar el sistema de recuperación en https://password.xyz.com
+
+--- CORREO ELECTRÓNICO ---
+
+Q: ¿Cómo configuro el correo en mi celular?
+A: Usa la aplicación Outlook. Ingresa tu correo institucional y contraseña. El servidor es outlook.office365.com
+
+Q: ¿Puedo acceder al correo desde el navegador?
+A: Sí. Ve a https://outlook.office365.com e ingresa tus credenciales corporativas.
+
+Q: ¿Qué hacer si no puedo enviar correos?
+A: Verifica que tengas conexión a internet, que no estés fuera de espacio, y que no estés usando una firma con imágenes pesadas. Si el problema persiste, contacta a soporte.
+
+--- VPN Y ACCESO REMOTO ---
+
+Q: ¿Cómo me conecto a la VPN?
+A: Usa la aplicación "XYZ VPN Client". Ingresa tu usuario y contraseña corporativa. El servidor es vpn.xyz.com
+
+Q: ¿Qué hago si la VPN no conecta?
+A: Verifica tu conexión a internet. Si ves un error de credenciales, intenta restablecer tu contraseña. Si el error es de certificado, contacta a soporte.
+
+Q: ¿Está permitido el acceso remoto desde dispositivos personales?
+A: Solo si están registrados y cumplen con los requisitos de seguridad (antivirus actualizado, cifrado de disco, bloqueo de pantalla).
+
+--- IMPRESORAS Y ESCÁNERES ---
+
+Q: ¿Cómo agrego una impresora de red?
+A: Ve a "Dispositivos e impresoras" > "Agregar impresora" > Selecciona "Impresora de red" > Elige la impresora correspondiente al área.
+
+Q: ¿Qué hacer si una impresora no responde?
+A: Verifica que esté encendida, conectada a red y sin atascos de papel. Luego intenta reiniciar el spooler de impresión o llama a soporte.
+
+--- SOFTWARE CORPORATIVO ---
+
+Q: ¿Cómo solicito una nueva aplicación?
+A: Envía un correo a sistemas@xyz.com con el nombre del software, motivo y quién lo usará.
+
+Q: ¿Qué aplicaciones están autorizadas?
+A: Microsoft 365, Zoom, Slack, Visual Studio Code, Notepad++, SAP, Chrome, Firefox.
+
+--- EQUIPO Y HARDWARE ---
+
+Q: ¿Qué hacer si mi equipo está lento?
+A: Reinicia el equipo, cierra programas en segundo plano, verifica el uso de disco y memoria. Si persiste, contacta a soporte para un diagnóstico.
+
+Q: ¿Qué hago si mi cámara o micrófono no funcionan?
+A: Revisa permisos en la configuración del sistema y de la aplicación (Zoom, Teams, etc.). Verifica que no haya otro programa usándolos.
+
+--- POLÍTICAS DE SEGURIDAD ---
+
+Q: ¿Puedo usar dispositivos USB personales?
+A: No. Solo están permitidos dispositivos autorizados por el área de IT.
+
+Q: ¿Qué hacer si detecto actividad sospechosa?
+A: Reporta inmediatamente al correo seguridad@xyz.com o llama al interno 1020.
+
+--- CONTACTO DE SOPORTE ---
+
+Soporte Técnico:
+- Correo: soporte@xyz.com
+- Interno: 1010
+- Horario: Lunes a Viernes, 8:00 a.m. a 6:00 p.m.
+
+Seguridad Informática:
+- Correo: seguridad@xyz.com
+- Interno: 1020

@@ -4,7 +4,10 @@ bin/
 etc/
 include/
 lib/
+cache/
 share/
 *.cfg
 *.env
 *.DS_Store
+lib64/
+demo/

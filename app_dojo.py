@@ -2,11 +2,6 @@ import streamlit as st
 from api import get_response
 
 st.title("DOJO BOT 🤖")
-knowledge= "La fundacion comunidad DOJO es una organizacion" \
-"no gubernamental sin fines de lucro que busca cambiar vidas" \
-"a traves de la formacion en ciberseguridad" \
-"lo hacen a traves de programas de impacto para jovenes y adultos." 
-
 
 # hacemos historial de chat para hacerlo mas real jajaja
 if "messages" not in st.session_state:
@@ -23,6 +18,6 @@ if prompt := st.chat_input("En que puedo ayudarte?"):
         st.markdown(prompt)
 
     with st.chat_message("assistant"):
-        stream = get_response(context="", prompt=prompt)()
+        stream = get_response(prompt, "data/dojo_knowledge.txt")()
         response = st.write_stream(stream)
     st.session_state.messages.append({"role":"assistant", "content": response})
